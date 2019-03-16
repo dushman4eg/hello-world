@@ -2,4 +2,4 @@
 
 Hi!
 
-My name is Andrey. I'm hew here.
+My name is Andrey. I'm new here.
