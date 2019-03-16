@@ -1,2 +1,5 @@
 # hello-world
-First step
+
+Hi!
+
+My name is Andrey. I'm new here.
